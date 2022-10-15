@@ -9,7 +9,7 @@ const projects = [
     subtitle: "An app to help catagorize your workday",
     deployedLink: "https://hypnotoad0010.github.io/Challenge-5-Work-Day-Scheduler/",
     repoLink: "https://github.com/Hypnotoad0010/Challenge-5-Work-Day-Scheduler",
-    image: "./assets/images/Workday-scheduler.png"
+    image: "../assets/images/Workday-scheduler.png"
   },
   {
     id: 2,
