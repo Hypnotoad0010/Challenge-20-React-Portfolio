@@ -34,13 +34,13 @@ const projects = [
     description: "An application to generate your readme",
     deployedLink: "https://drive.google.com/file/d/1X9TREUaeljZUv-2fEadTgfdF51x4HzqF/view",
     repoLink: "https://github.com/Hypnotoad0010/Challenge-9-Readme-Generator",
-    image: "../assets/images/image-3.jpg"
+    image: "../assets/images/readme-generator.png"
   }
 ];
 
 export default function Portfolio() {
   return (
-    <div className = "w-50 mx-auto">
+    <div className = "w-47 mx-auto">
       <h1 className ="pb-4 pt-2">Portfolio</h1>
 <Cards projects={projects} />
     </div>
